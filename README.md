@@ -7,7 +7,7 @@ It's music-rythmic game where you play as singer-cow singing to her favourite so
 
 # How to build
 
-After cloning the repo, you need to type into terminal "python3 main.py", after that, you have to type your name into terminal in order to have your score in scoreboard.
+After cloning the repo, (if you have python3 installed) you need to type into terminal "python3 main.py" , after that, you have to type your name into terminal in order to have your score in scoreboard.
 After you have done all of this, turn into game window and press "P" to start game. 
 
 # How to Play
