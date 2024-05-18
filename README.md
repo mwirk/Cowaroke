@@ -12,7 +12,7 @@ After you have done all of this, turn into game window and press "P" to start ga
 
 # How to Play
 
- Press P to start the Game \n
+## Press P to start the Game
 ## Press A to play "C" note
 ## Press S to play "D" note
 ## Press D to play "E" note
