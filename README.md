@@ -1,5 +1,6 @@
-# Gra Python
+# Cowaroke
 
+![Screenshot from 2024-05-18 15-09-26](https://github.com/mwirk/Cowaroke/assets/88592638/ac102080-6dc4-4205-87cd-cad9ae8d1bac)
 
 
 ## Getting started
