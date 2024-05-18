@@ -12,17 +12,17 @@ After you have done all of this, turn into game window and press "P" to start ga
 
 # How to Play
 
-# Press P to start the Game
-# Press A to play "C" note
-# Press S to play "D" note
-# Press D to play "E" note
-# Press F to play "F" note
-# Press G to play "G" note
-# Press H to play "A" note
-# Press J to play "B" note
-# Press ESC to finish the Game
+Press P to start the Game
+Press A to play "C" note
+Press S to play "D" note
+Press D to play "E" note
+Press F to play "F" note
+Press G to play "G" note
+Press H to play "A" note
+Press J to play "B" note
+Press ESC to finish the Game
 
-## Have Fun!
+# Have Fun!
 
 
 
